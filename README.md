@@ -1,7 +1,15 @@
 # Kernel Trick in Support Vector Machine (SVM)
+
 ## To view the video
-* [Click here](https://youtu.be/aglNRO18R7g)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=aglNRO18R7g" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/aglNRO18R7g?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
+
 
 [![Kernel Trick in Support Vector Machine (SVM)](http://img.youtube.com/vi/aglNRO18R7g/0.jpg)](http://www.youtube.com/watch?v=aglNRO18R7g)
 
